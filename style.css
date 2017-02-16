@@ -1,4 +1,46 @@
-.header-dark {
-  background-color: #f7f7f7 !important;
-  color: black;
+.header {
+  background-color: #353535 !important;
+}
+
+#js-pjax-container {
+  background-color: #505050 !important;
+}
+
+.mini-repo-list-item {
+  background-color: #353535 !important;
+  border-top: 1px solid black !important;
+}
+
+body {
+  background-color: #353535 !important;
+}
+
+h3 {
+  color: rgba(255,255,255,0.75);
+}
+
+.boxed-group>h3 {
+  background-color: #353535 !important;
+}
+
+.more-repos-link {
+  background-color: #353535 !important;
+  border-top: 1px solid black;
+}
+
+.ajax-pagination-btn {
+  background-color: #353535 !important;
+}
+
+.title {
+  color: #bbb !important;
+}
+
+span, a {
+  /*color: #98D7D5 !important;*/
+  color: white !important;
+}
+
+.js-selected-navagation-item {
+  color: #bbb !important;
 }
