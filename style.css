@@ -60,3 +60,21 @@ button {
 .message {
   border: 1px solid #bbb !important;
 }
+
+
+
+
+
+
+
+.user-profile-nav, .user-profile-sticky-bar.is-stuck::after {
+  background-color: #353535 !important;
+}
+
+.counter, .js-select-button {
+  color: #353535 !important;
+}
+
+.link-gray-dark {
+  color: #bbb !important;
+}
