@@ -2,7 +2,7 @@
   background-color: #353535 !important;
 }
 
-#js-pjax-container {
+#js-pjax-container, .input-block {
   background-color: #505050 !important;
 }
 
@@ -36,11 +36,27 @@ h3 {
   color: #bbb !important;
 }
 
-span, a {
+span, a, p {
   /*color: #98D7D5 !important;*/
   color: white !important;
 }
 
 .js-selected-navagation-item {
   color: #bbb !important;
+}
+
+button {
+  color: black !important;
+}
+
+.select-menu-item, .select-menu-header, .js-menu-target, .dropdown-menu {
+  background-color: #353535 !important;
+}
+
+.filter-repos {
+  background-color: #353535 !important;
+}
+
+.message {
+  border: 1px solid #bbb !important;
 }
