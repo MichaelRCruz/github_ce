@@ -2,7 +2,7 @@
   background-color: #353535 !important;
 }
 
-#js-pjax-container, .input-block {
+#js-pjax-container, .input-block, .discussion-item-icon {
   background-color: #505050 !important;
 }
 
@@ -49,6 +49,10 @@ button {
   color: black !important;
 }
 
+.account-switcher, .btn {
+  background: #505050 !important;
+}
+
 .select-menu-item, .select-menu-header, .js-menu-target, .dropdown-menu {
   background-color: #353535 !important;
 }
@@ -64,9 +68,7 @@ button {
 
 
 
-
-
-
+/*CSS for github.com/<your-user-name>*/
 .user-profile-nav, .user-profile-sticky-bar.is-stuck::after {
   background-color: #353535 !important;
 }
